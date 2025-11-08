@@ -1,6 +1,6 @@
 # rubified README
 
-This is the README for your extension "rubified". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "rubified". After writing up a brief description.
 
 ## design implementation
 Outsources ruby within the ERB templates for formatting (static analysis) and dynamic processing (debugging) to the extension as rubify, and then formats the remainder of the template, e.g. the html part of the .html.erb.
