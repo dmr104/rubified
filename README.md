@@ -2,8 +2,6 @@
 
 This is the README for your extension "rubified".
 
-test 11
-
 ## design implementation
 Outsources ruby within the ERB templates for formatting (static analysis) and dynamic processing (debugging) to the extension as rubify, and then formats the remainder of the template, e.g. the html part of the .html.erb.
 
